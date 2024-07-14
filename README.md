@@ -7,3 +7,5 @@ mProject for BIGC
 * 1.1.0 (20240713): 修复一个严重的bug. [@LockenLiu](https://github.com/LockenLiu)
 
 * 1.2.0 (20240713): 提高计算效率. @lizhihao
+
+* 1.3.0 (20240714): bug修复.
