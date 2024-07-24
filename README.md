@@ -9,3 +9,5 @@ mProject for BIGC
 * 1.2.0 (20240713): 提高计算效率. @lizhihao
 
 * 1.3.0 (20240714): bug修复.
+
+* 1.4.0 (20240724): Sample表增加Flag列.
